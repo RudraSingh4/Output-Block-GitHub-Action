@@ -1,5 +1,5 @@
 name: Status Check Function
-on: [push, workflow-dispatch]
+on: [push, workflow_dispatch]
 
 jobs: 
   job-1:
